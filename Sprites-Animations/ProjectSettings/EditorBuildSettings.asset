@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/In-Game.unity
+    guid: b16c579af3a75ed4a962df41607948e7
+  - enabled: 1
+    path: Assets/Scenes/Pac-Man.unity
+    guid: 19e540a4da7bcf0439f50f1dd2f10a0a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
