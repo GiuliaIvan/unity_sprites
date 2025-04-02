@@ -41,14 +41,14 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: background
-    uniqueID: 1141693513
-    locked: 0
   - name: items
     uniqueID: 1266681397
     locked: 0
   - name: Cats
     uniqueID: 790400691
+    locked: 0
+  - name: background
+    uniqueID: 1141693513
     locked: 0
   m_RenderingLayers:
   - Default
